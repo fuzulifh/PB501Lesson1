@@ -3,3 +3,6 @@ Most AI examples that you hear about today – from chess-playing computers to s
 rely heavily on deep learning and natural language processing.
 
 AI is not good 
+
+
+Hello for everyone

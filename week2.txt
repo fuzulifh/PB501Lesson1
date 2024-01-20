@@ -5,4 +5,7 @@ rely heavily on deep learning and natural language processing.
 AI is not good 
 
 
-Hello for everyone
+Hello for everyone+
+
+
+for development for python ai
